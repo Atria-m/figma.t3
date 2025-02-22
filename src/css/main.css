@@ -2721,6 +2721,18 @@ video {
     margin-top: 70px;
   }
 
+  .lg\:mt-\[\] {
+    margin-top: ;
+  }
+
+  .lg\:mt-\[50px\] {
+    margin-top: 50px;
+  }
+
+  .lg\:mt-\[150px\] {
+    margin-top: 150px;
+  }
+
   .lg\:block {
     display: block;
   }
